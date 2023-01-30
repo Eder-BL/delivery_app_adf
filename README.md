@@ -1,6 +1,6 @@
 # delivery_app
 
-📖 Projeto de estudo do GetX
+📖 Projeto de estudo Provider + BLOC
 </br>
 👩‍🏫 [Academia do Flutter](https://academiadoflutter.com.br/)
 
