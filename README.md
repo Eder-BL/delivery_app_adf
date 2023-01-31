@@ -1,6 +1,8 @@
-# dw9_delivery_app
+# delivery_app
 
-A new Flutter project.
+📖 Projeto de estudo Provider + BLOC
+</br>
+👩‍🏫 [Academia do Flutter](https://academiadoflutter.com.br/)
 
 ## Getting Started
 
